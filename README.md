@@ -121,8 +121,8 @@ Interactive tactile badges celebrating Tamil Nadu transit schemes and status upd
 ### Clone & Compile
 ```bash
 # Clone the repository
-git clone https://github.com/ganesh18-lgtm/chennai-transit-offline.git
-cd chennai-transit-offline
+git clone https://github.com/ganesh18-lgtm/chennai-transit-companion.git
+cd chennai-transit-companion
 
 # Compile and assemble the debug APK
 ./gradlew assembleDebug
