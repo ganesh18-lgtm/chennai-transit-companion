@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chennai Transit</string>
+    <string name="widget_name">Chennai Transit Quick Tracker</string>
+    <string name="widget_description">Glance at Chennai Metro lines, MTC bus arrivals &amp; offline GPS tracking on your home screen.</string>
+</resources>
